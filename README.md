@@ -1,2 +1,2 @@
-# Sport-app
-Android application 
+# sport_app
+sport training
